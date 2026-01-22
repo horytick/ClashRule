@@ -104,7 +104,7 @@
 >
 >   > * 分流配置，可以选择给定的也可以输入URL自定义分流规则（注意必须是直链才行），自用clash分流规则直链地址
 >   >
->   >   > https://raw.githubusercontent.com/cutethotw/ClashRule/main/GeneralClashRule.ini
+>   >   > https://raw.githubusercontent.com/horytick/ClashRule/main/GeneralClashRule.ini
 >   >
 >   > * 自定义策略组
 >   >
